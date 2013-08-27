@@ -18,3 +18,4 @@ Script for Learning Git
 - Create a branch called 'development'.  This will create a local branch, not a remote branch in the central repo (github).
 - Make some commits. 
 - Make some more commits.
+- Push changes to github.  Declare the 'development' branch as a "tracking branch".  This will create a remote branch, and correlate 'github/development' and 'development'.
