@@ -17,3 +17,4 @@ Script for Learning Git
 - SourceTree should automatically pickup the newly renamed github remote.
 - Create a branch called 'development'.  This will create a local branch, not a remote branch in the central repo (github).
 - Make some commits. 
+- Make some more commits.
