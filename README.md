@@ -15,3 +15,5 @@ Script for Learning Git
 	$ git remote rename origin github
 
 - SourceTree should automatically pickup the newly renamed github remote.
+- Create a branch called 'development'.  This will create a local branch, not a remote branch in the central repo (github).
+- Make some commits. 
