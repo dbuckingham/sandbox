@@ -23,3 +23,4 @@ Script for Learning Git
 
 TeamCity Integration
 ====================
+- Tagging is not supported over HTTP.  HTTPS?
