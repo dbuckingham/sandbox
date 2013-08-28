@@ -20,3 +20,6 @@ Script for Learning Git
 - Make some commits. 
 - Make some more commits.
 - Push changes to github.  Declare the 'development' branch as a "tracking branch".  This will create a remote branch, and correlate 'github/development' and 'development'.
+
+TeamCity Integration
+====================
